@@ -1,0 +1,62 @@
+img{
+    width: 200px;
+    height: 113px;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 18px;
+}
+
+.photo1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 18px;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 18px;
+}
+.container{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 18px;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+.poster{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.poster1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}

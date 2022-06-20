@@ -1,0 +1,191 @@
+body{
+ margin: auto;
+    
+    background-color: bisque; 
+}
+.box{
+    
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    margin: -9px;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+}
+.task{
+    display: flex;
+    gap: 80px;
+}
+a{
+    color:white;
+    text-decoration: none;
+
+}
+.logo{
+font-style: italic;
+text-transform: capitalize;
+}
+.image1{
+    margin-top: 74px;
+    width: 40%;
+    height: 341px;
+    margin-left: 64px;
+    border-radius: 8px;
+}
+.image2{
+    margin-top: 74px;
+    width: 40%;
+    height: 341px;
+    margin-left: 90px;
+    border-radius: 8px;
+}
+h1{
+    margin-left: 61px;
+    font-size: xx-large;
+}
+ p{
+    color: black;
+    font-size: x-large;
+   margin-left: 60px;
+}
+.links{
+    display: flex;
+    padding: 21px;
+    margin-left: 175px;
+}
+
+    h2{
+        font-size: xx-large;
+        margin-left: 74px;    }
+    
+.care p{
+    margin-top: -128px;
+    margin-left: 296px;
+    font-size: xx-large;
+}
+.care {
+    
+    display: grid;display: grid;
+    margin-left: 74px;
+    grid-gap: 76px;
+}
+.mental img{
+    display: inline;
+    position: absolute;
+    bottom: -375px;
+    margin-left: 808px;
+    width: 113px;
+}
+.mental p{
+
+    display: inline-flex;
+    position: absolute;
+   margin-left: 957px;
+    display: inline-flex;
+    position: absolute;
+    bottom: -372px;
+}
+.psycho img{
+    margin-left: 54px;
+    padding: 20px;
+    height: 127px;
+    width: 155px;
+}
+.psycho p{
+    
+    display: inline-block;
+    position: absolute;
+    bottom: -560px;
+    height: 114px;
+    margin-left: 6px;
+    font-size: x-large;
+}
+.pass img{
+    display: inline-flex;
+    position: absolute;
+    margin-left: 808px;
+    width: 111px;
+    height: 118px;
+    bottom: -507px;
+}
+.pass p{
+    display: inline;
+    position: absolute;
+    margin-left: 956px;
+    bottom: -481px;
+}
+.smart img{
+    
+    width: 44%;
+    height: 400px;margin-top: 77px;
+    margin-left: 74px;
+}
+
+h3{
+    
+    margin-left: 711px;
+    font-size: xx-large;
+    margin-top: -354px;
+       
+
+}
+.high{
+    margin-top: -35px;
+    margin-left: 653px;
+}
+    .email{
+           margin-top: -7px;
+        margin-left: 716px;
+    }
+    .sign{     margin-top: 10px;
+        margin-left: 716px;
+    }
+    p:hover{
+    color: rgb(230, 59, 59);
+    }
+ h4{
+    margin-top: 273px;
+    margin-left: 77px;
+    font-size: xxx-large;
+ }  
+ .get{
+    margin-left: 18px;
+    margin-top: -65px;
+ }
+ .yo p{
+    margin-left: 81px;
+    margin-top: -25px;
+ }
+    .ro{
+        margin-left: 83px;
+        margin-top: -18px;
+    }
+h5{
+        font-size: x-large;
+    font-style: italic;
+    color: white;
+    margin-left: 111px;
+
+    padding: 2px;
+    
+      
+    
+}  
+.task3{
+  
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    gap: 176px;
+    background-color: black;
+    font-size: large;
+    margin-top: -54px;
+}
+.task2{
+    background-color: black;
+}
+.a{
+    margin-top: -7px;
+}
+
